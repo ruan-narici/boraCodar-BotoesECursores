@@ -6,7 +6,7 @@
 | :checkered_flag: INICIADO EM | 18/01/2023 |
 | 	:white_check_mark: FINALIZADO EM | 18/01/2023 |
 | 	:gear: TECNOLOGIAS | Figma, HTML5, CSS3, Javascript |
-| :globe_with_meridians: URL |  |
+| :globe_with_meridians: URL | https://ruan-narici.github.io/boraCodar-BotoesECursores/ |
 | 	:person_fencing: DESAFIO | Recriar o layout https://www.figma.com/community/file/1197534710257750520 |
 
 ## Detalhes 
@@ -17,4 +17,4 @@ Criar botões com determinadas animações e alterar o cursor conforme o status 
 
 
 ## Pré-visualização
-![GIF do Desafio-2](./assets/img/preview.gif#vitrinedev)
+![GIF do Desafio-3](./assets/img/preview.gif#vitrinedev)
